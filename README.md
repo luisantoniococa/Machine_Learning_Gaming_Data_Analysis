@@ -4,4 +4,3 @@ The project goal is to predict the amount of players per month in the steam char
 ## Overview
 The project consists in 2 parts:
 + We will scrape and aggregate the needed data for the project.
-+ We will
